@@ -1,0 +1,21 @@
+﻿  stdafx.cpp
+c:\users\misoc\desktop\c++asinggui\studentaccount\studentaccount\currentaccountform.h(463): warning C4101: 'res': unreferenced local variable
+c:\users\misoc\desktop\c++asinggui\studentaccount\studentaccount\currentaccountform.h(462): warning C4101: 'row': unreferenced local variable
+c:\users\misoc\desktop\c++asinggui\studentaccount\studentaccount\savingsaccountform.h(453): warning C4101: 'res': unreferenced local variable
+c:\users\misoc\desktop\c++asinggui\studentaccount\studentaccount\savingsaccountform.h(452): warning C4101: 'row': unreferenced local variable
+c:\users\misoc\desktop\c++asinggui\studentaccount\studentaccount\login.h(235): warning C4101: 'res': unreferenced local variable
+c:\users\misoc\desktop\c++asinggui\studentaccount\studentaccount\login.h(234): warning C4101: 'row': unreferenced local variable
+c:\users\misoc\desktop\c++asinggui\studentaccount\studentaccount\login.h(236): warning C4101: 'qstate': unreferenced local variable
+  AssemblyInfo.cpp
+  BalanceForm.cpp
+  CurrentAccountForm.cpp
+  DepositeForm.cpp
+  Login.cpp
+  SavingsAccountForm.cpp
+  SelectAccount.cpp
+  SelectActionForm.cpp
+  StudentAccount.cpp
+  StudentDetails.cpp
+  WithdrawForm.cpp
+  Generating Code...
+  StudentAccount.vcxproj -> C:\Users\misoc\Desktop\C++AsingGUI\StudentAccount\x64\Release\StudentAccount.exe
